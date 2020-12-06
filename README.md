@@ -1,16 +1,15 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ScRiPt1337&show_icons=true">
 
-<!--
-**yahudaXD/yahudaXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey Yo ! I'm Yahuda;
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/yahuda_dev/)
+[![root@linuxtree.net](https://img.shields.io/static/v1?label=me@ScRiPt1337&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:root@linuxtree.net)
+  
+  
+👨‍💻 18 Years old Developer and Network Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 **Current Team:** Linux Tree
+
+⭐️ From [yahudaXD](https://github.com/yahudaXD)
+
+
