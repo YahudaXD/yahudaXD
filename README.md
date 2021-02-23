@@ -1,5 +1,4 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=yahudaxd&show_icons=true"></br>
-<img align='right' src="https://discord.c99.nl/widget/theme-2/679423438623866911.png">
 
 ### Hey Yo ! I'm Yahuda;
 
