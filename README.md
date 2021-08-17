@@ -1,16 +1,12 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yahudaxd&show_icons=true"></br>
+<p align="center">    
+    <img style="border-radius: 100px" width="128" height="128" src="https://avatars.githubusercontent.com/u/33934339?v=4">
+</p>
+<h1 align="center">Yahuda</h1>
 
-### Hey Yo ! I'm Yahuda;
+<p align="center">    
+    <img src="https://github.com/yahudaXD/yahudaXD/blob/master/github-metrics.svg">
+</p>
 
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/yahuda_dev/)
-[![root@linuxtree.net](https://img.shields.io/static/v1?label=root@Linuxtree.net&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:root@linuxtree.net)
+🔭 I’m currently working on **[LinuxTree](https://github.com/Linux-Tree)**
 
-  
-  
-👨‍💻 18 Years old Developer and Network Programming
-
-🚧 **Current Team:** Linux Tree
-
-⭐️ From [yahudaXD](https://github.com/yahudaXD)
-
-
+📫 Contact [Instagram](https://twitter.com/yahudaXD), [Discord](https://discord.com/users/679423438623866911)`Flam3rboy#3490`
