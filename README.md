@@ -9,4 +9,4 @@
 
 🔭 I’m currently working on **[LinuxTree](https://github.com/Linux-Tree)**
 
-📫 Contact [Instagram](https://twitter.com/yahudaXD), [Discord](https://discord.com/users/679423438623866911)`Flam3rboy#3490`
+📫 Contact [Instagram](https://twitter.com/yahudaXD), [Discord](https://discord.com/users/679423438623866911)`Yahuda#7777`
